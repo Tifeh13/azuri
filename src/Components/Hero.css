@@ -1,0 +1,42 @@
+/* the font  */
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap');
+
+.flex-container-1{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.flex-container-2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.flex-container-1 .flex-container-2 .cont{
+    padding-top: 5rem;
+}
+.flex-container-1 .flex-container-2 .cont h1{
+    display: grid;
+    text-align: center;
+    color: white;
+    color: #FFFFFF;
+    font-family: "Maven Pro", Sans-serif;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.flex-container-1 .flex-container-2 .cont p{
+    color: #FFFFFF;
+    font-family: "Maven Pro", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 1rem;
+}
+.flex-container-1 .flex-container-2 .cont .circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 1rem;
+}

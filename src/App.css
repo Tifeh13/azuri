@@ -1,0 +1,5 @@
+.flex-container {
+    background: radial-gradient(circle, #0c2a20, #0C6138 50%, #0c2a20);
+    width: 100%;
+    height: auto;
+}
